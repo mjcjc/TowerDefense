@@ -1,0 +1,14 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uilds/
+*.csproj
+*.sln
+
+# Locally supplied art pack and operating system font
+/Assets/Resources/Cartoon/
+/Assets/Resources/Cartoon.meta
+/Assets/Resources/Korean.ttf
+/Assets/Resources/Korean.ttf.meta
